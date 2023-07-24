@@ -1,6 +1,7 @@
 # Ping-pong-game
 
 How to Play ?
+
 Go to https://prem-kumar412.github.io/Ping-pong-game/
 
 Press Enter each time to start the game.
